@@ -1,4 +1,4 @@
-# Proyek Rust Kamu
+# SPLTV SOLVER
 Kode ini adalah implementasi dari Gauss Elimination yang dilakukan pada matriks untuk menyelesaikan Sistem Persamaan Linear Tiga Variabel.
 
 ## Persyaratan
